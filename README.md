@@ -1,67 +1,64 @@
-<h1 align="center">Hi 👋, I'm Dhuneshwaran</h1>
-<h3 align="center">AI & Data Science Student | Machine Learning Enthusiast | Data Analytics Explorer</h3>
+# Hi there 👋 I'm Dhuneshwaran
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interest-Data%20Analytics-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-AI%20Engineer-orange?style=for-the-badge" />
-</p>
+🎓 B.Tech AI & Data Science Student  
+📍 Chennai, India  
+💡 Passionate about Machine Learning, Data Analytics & Predictive Modeling  
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech in Artificial Intelligence & Data Science  
-📍 Chennai, India  
-📊 Passionate about turning data into actionable insights  
-🤖 Building intelligent systems using Machine Learning  
-☁️ Exploring AI-driven Cloud Cost Optimization  
+I am an AI & Data Science student focused on building intelligent systems that solve real-world problems.  
+I enjoy working with data, developing forecasting models, and optimizing systems using AI-driven techniques.
 
-> "Transforming raw data into intelligent decisions."
-
----
-
-## 🧠 What I Work On
-
-🔹 Machine Learning Models (ARIMA, LSTM, Random Forest, XGBoost)  
-🔹 Time Series Forecasting  
-🔹 Data Analysis & Visualization  
-🔹 Predictive Modeling  
-🔹 Cloud Cost Optimization Systems  
+🔹 Strong interest in Machine Learning & Data Analytics  
+🔹 Experience in ARIMA, LSTM, XGBoost  
+🔹 Building AI-driven Cloud Cost Optimization systems  
+🔹 Turning raw data into meaningful insights 📊  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 **Languages:**  
-Python | R | SQL  
+Python, R, SQL  
 
-**Libraries & Tools:**  
-Pandas | NumPy | Scikit-learn | Matplotlib  
+**Machine Learning:**  
+ARIMA, LSTM, Random Forest, XGBoost, SVM  
 
-**Core Areas:**  
-Machine Learning | Data Analytics | Forecasting | System Design  
+**Data Tools:**  
+Pandas, NumPy, Matplotlib, Scikit-learn  
+
+**Other Areas:**  
+Data Structures, Cloud Cost Forecasting, System Design  
 
 ---
 
-## 📌 Featured Projects
+## 📂 Featured Projects
 
-🚀 **Cloud Cost Management & Forecasting System**  
-AI-based cost prediction and optimization using ARIMA  
+🔹 **Cloud Cost Management & Forecasting System**  
+AI-driven cost prediction using ARIMA for optimized resource planning  
 
-📦 **E-commerce Demand Forecasting**  
-Time-series forecasting using ARIMA & LSTM  
+🔹 **E-commerce Demand Forecasting**  
+Time-series analysis using ARIMA & LSTM for inventory optimization  
 
-🏠 **Home Price Prediction Model**  
-XGBoost vs Random Forest performance analysis  
+🔹 **Home Price Prediction**  
+Comparative analysis using XGBoost & Random Forest  
+
+---
+
+## 📈 GitHub Stats
+
+- Consistently working on ML & Data projects  
+- Focused on improving real-world problem solving  
 
 ---
 
 ## 🌐 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/dhuneshwaran-v-741935344  
+🔗 LinkedIn: www.linkedin.com/in/dhuneshwaran-v-741935344  
 🌍 Portfolio: https://dhunesh.vercel.app  
 
 ---
 
-⭐ Always learning. Always building. Always improving.
+⭐ “Transforming data into intelligent decisions.”
