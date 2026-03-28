@@ -21,7 +21,7 @@ I enjoy working with data, developing forecasting models, and optimizing systems
 ## 🛠️ Technical Skills
 
 **Languages:**  
-Python, R, SQL  
+Python, JAVA, R, SQL, C  
 
 **Machine Learning:**  
 ARIMA, LSTM, Random Forest, XGBoost, SVM  
